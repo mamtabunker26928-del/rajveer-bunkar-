@@ -1,0 +1,6 @@
+{
+  "name": "JEE Guru",
+  "description": "JEE competitive exam preparation AI Tutor applet, speaking in Hinglish with an interactive professional AI tutor avatar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
